@@ -181,6 +181,7 @@ h6 { font-size: 12px; margin: 0 0 5px; padding: 0; }
  
 .comment_text .reply a { display: block; clear: both; float: right; color: #fff; font-weight: 700 } 
 
+.icongit {border-radius: 4px;}
 
 #comment_form {
 	clear: both;
